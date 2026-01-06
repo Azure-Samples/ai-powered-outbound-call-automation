@@ -3,6 +3,6 @@ azure-eventgrid==4.11.0
 aiohttp>= 3.11.9
 azure-communication-callautomation==2.0.0
 openai[realtime]
-aiohttp==3.11.18
+aiohttp==3.13.3
 azure-core==1.35.0
 azure-identity==1.22.0
