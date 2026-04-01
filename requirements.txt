@@ -1,6 +1,6 @@
 Quart>=0.19.6
 azure-eventgrid==4.11.0
-aiohttp>= 3.11.9
+aiohttp== 3.13.4
 azure-communication-callautomation==2.0.0
 openai[realtime]
 aiohttp==3.11.18
